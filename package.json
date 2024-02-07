@@ -1,0 +1,16 @@
+{
+  "license": "MIT",
+  "name": "coffee-house",
+  "description": "Сoffee House",
+  "author": {
+    "name": "Hlib Suprun",
+    "email": "hlibsuprun@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hlibsuprun/coffee-house"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
